@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaartik2611&label=Views&color=blue&style=plastic" alt="kaartik2611 Views" /> </p>
+
 <!--
 **kaartik2611/kaartik2611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
